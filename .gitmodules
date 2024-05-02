@@ -1,0 +1,3 @@
+[submodule "cpsnark-set"]
+	path = cpsnark-set
+	url = https://github.com/kobigurk/cpsnarks-set
